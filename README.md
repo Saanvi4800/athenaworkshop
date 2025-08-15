@@ -1,4 +1,5 @@
 # Bakeify Website
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 ## Description<br>
 This is my first website just to learn website design and coding. It is not connected or affiliated with any other websites or people. This website houses easy to use recipes in 5 steps or less as well as a weekly special and featured page.
 Here is the link to the website: https://saanvi4800.github.io/athenaworkshop/index.html
@@ -36,4 +37,4 @@ This folder has all the pictures that I used in this project.<br>
 
 
 ## How I made this project<br>
-I created this project as sort of an introduction to website coding and development as well as design and I really learned a lot. This was honestly a sort of random idea I had and I wanted to test out my coding abilities for this website before I create some of the websites I have been hoping to create for a while. I also created this website to submit for the athena awards program.
+I created this project as sort of an introduction to website coding and development as well as design and I really learned a lot. This was honestly a sort of random idea I had and I wanted to test out my coding abilities for this website before I create some of the websites I have been hoping to create for a while. I also created this website to submit for the athena awards program. I did struggle a lot with this project although it seems like a simple website, I was not quite familiar with all of the syntax and honestly how to use the code ESPECIALLY the CSS. It was quite frusterating getting the code to do what I wanted and constantly moving back and forth to see if what I changed worked. All in all however I genuinely believe that I got a lot out of this project in terms of knowledge!
